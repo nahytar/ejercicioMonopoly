@@ -1,0 +1,27 @@
+body {
+    height: 600px;
+}
+
+header {
+    text-align: center;
+    border: 1px solid;
+    background-color: yellow;
+}
+
+.content {
+    height: 80%;
+}
+
+.colum {
+    width: 33.18%;
+    height: 100%;
+    float: left;
+    border: 1px solid;
+    text-align: center;
+}
+
+footer {
+    border: 1px solid;
+    background-color: yellow;
+    text-align: center;
+}
